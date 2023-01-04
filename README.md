@@ -9,6 +9,8 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Training using the Nestjs framework for personal improvement!
+PS: Bryan Lucas (Bljexe).
 
 ## Installation
 
