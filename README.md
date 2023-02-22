@@ -1,44 +1,31 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+  <img src="https://svgsilh.com/svg/155522-e91e63.svg" width="200" alt="Nest Logo" />
 </p>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
   
-## Description
+## Sobre
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-Training using the Nestjs framework for personal improvement!
-PS: Bryan Lucas (Bljexe).
+API de Livros.
+Em Desenvolvimento, qualquer colaboração e ajuda será bem-vinda!
 
-## Installation
+## Instalação
 
 ```bash
 $ npm install
 ```
 
-## Running the app
+## Rodando
 
 ```bash
-# development
+# Desenvolvimento
 $ npm run start
 
-# watch mode
+# Para assistir ao Projeto em Desenvolvimento
 $ npm run start:dev
 
-# production mode
+# Para assistir ao Projeto em Produção
 $ npm run start:prod
 ```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
