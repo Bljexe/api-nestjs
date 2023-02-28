@@ -30,6 +30,10 @@ h1 {
   color: white;
 }
 
+h2{
+  color: #00000092;
+}
+
 form {
   display: flex;
   align-items: center;
