@@ -1,0 +1,101 @@
+body{
+    background-color: #f0f0f0;
+    color: white;
+}
+
+.box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 15px;
+    margin: auto;
+    box-shadow: 4px 8px 16px #000000a1 ;
+    border-radius: 30px;
+    background-color: #FFC107;
+
+}
+
+fieldset {
+    border-radius: 15px;
+    border: 5px solid white;
+    padding: 60px;
+}
+
+.form{
+ 
+}
+
+h1{
+    text-align: center;
+    font-size: 25px;
+
+}
+
+legend {
+    border: 3px solid white;
+    font-size: 20px;
+    border-radius: 15px;
+    width: 100px;
+    text-align: center;
+}
+
+#button-login{
+    background-color: #0073ff;
+    width: 50%;
+    border: none;
+    padding: 15px;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 12px;
+    right: 50px;
+    width: 100%;
+    margin-top: 20%;
+}
+
+input{
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+
+}
+
+input::placeholder{
+    font-size: 16px;
+    text-align: center;
+    
+ 
+}
+
+label{
+    font-size: 20px;
+}
+
+
+
+
+p{
+    font-size: 22px;
+    text-align: center;
+    
+}
+
+.cadastro{
+   text-align: center;
+    color: black;
+    font-size: 20px;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+.recuperar{
+    text-align: center;
+    color: black;
+    font-size: 14px;
+    margin-top: 15px;
+    text-decoration: none;
+  
+}
+

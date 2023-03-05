@@ -34,7 +34,7 @@ h2{
   color: #00000092;
 }
 
-form {
+.Search {
   display: flex;
   align-items: center;
   
@@ -113,7 +113,7 @@ a.letra:focus {
 }
 
 /* Estilos para o conteúdo principal */
-main {
+#index-main {
   max-width: 1200px;
   margin: 0 auto;
   padding: 20px;
@@ -213,3 +213,4 @@ footer {
 #copy{
   color: rgb(79, 9, 125);
 }
+
